@@ -15,5 +15,8 @@ edition = "2018"
 name = "create"
 version = "0.1.0"
 authors = ["pvdklei"]
+description = "(Reserved) A library for creative graphics and more!"
+license = "MIT"
+repository = "https://github.com/pvdklei/create"
 
 [dependencies]
