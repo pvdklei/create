@@ -1,0 +1,13 @@
+prefix=/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out
+exec_prefix=${prefix}
+includedir=/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/include
+libdir=/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib
+
+Name: GLFW
+Description: A multi-platform library for OpenGL, window and input
+Version: 3.3.2
+URL: https://www.glfw.org/
+Requires.private: 
+Libs: -L${libdir} -lglfw3
+Libs.private:  -framework Cocoa -framework IOKit -framework CoreFoundation
+Cflags: -I${includedir}

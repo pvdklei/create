@@ -1,0 +1,8 @@
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/include/GLFW/glfw3.h
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/include/GLFW/glfw3native.h
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib/cmake/glfw3/glfw3Config.cmake
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib/pkgconfig/glfw3.pc
+/Users/pvdklei/Desktop/Code/create-build/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/lib/libglfw3.a

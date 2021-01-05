@@ -1,0 +1,14 @@
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/install/local.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/rebuild_cache.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/edit_cache.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/install/strip.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/uninstall.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/install.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/CMakeFiles/list_install_components.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/install/local.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/install/strip.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/install.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/list_install_components.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/rebuild_cache.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/edit_cache.dir
+/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/glfw-sys-18e0e4baf696aed1/out/build/src/CMakeFiles/glfw.dir

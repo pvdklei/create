@@ -1,0 +1,14 @@
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/install/local.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/rebuild_cache.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/edit_cache.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/install/strip.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/uninstall.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/install.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/CMakeFiles/list_install_components.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/install/local.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/install/strip.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/install.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/list_install_components.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/rebuild_cache.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/edit_cache.dir
+/Users/pvdklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-25afd09d6bf4231b/out/build/src/CMakeFiles/glfw.dir

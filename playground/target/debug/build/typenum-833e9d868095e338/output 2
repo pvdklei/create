@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/typenum-833e9d868095e338/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/pvdklei/Desktop/Code/graphics/playground/target/debug/build/typenum-833e9d868095e338/out/op.rs

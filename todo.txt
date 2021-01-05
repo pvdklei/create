@@ -1,0 +1,61 @@
+1. Fix painter to new standards
+    glm transforms, no projection view manipulation
+
+2. Expand Painter
+    textures
+    rectmodes
+
+3. Make Creator (3d redering)
+    Cube, Box, Ball, Cilinder, Plane
+    Materials,
+    Render modes (realistic or not)
+        Lighting
+        Shadows
+    Option to render a model
+
+4. Add materials 
+
+5. A MessagingSystem
+
+struct MessagingSystem {
+    matricis: HashMap<String, glm::Mat4>,
+    vecs: HashMap<String, glm::Vec3>,
+    strings: HashMap<String, String>, 
+    floats: Hasmap<String, f32>
+}
+
+impl MessagingSystem {
+
+    pub fn new() -> Self {
+        let matricis = HashMap::new();
+        let vecs = HashMap::new();
+        let strings = HashMap::new();
+        let floats = HashMap::new();
+        Self { matricis, vecs, strings, floats }
+    }
+
+    pub fn get_message(&self, name: &str, type: MessageType) -> Message {
+        match type {
+            StringT => String(self.strings.get(name)),
+            MatrixT => Matrix(self.matricis.get(name)),
+            VectorT => Vector(self.vecs.get(name)),
+            FloatT => Float(self.floats.get(name)),
+        }
+    }
+
+    pub fn send_message(&self, name: &str, message: Message) {
+        match type {
+            String(s) => self.strings.set(name, s),
+            Matrix(m) => self.matricis.get(name, m),
+            Vector(v) => self.vecs.get(name, v),
+            Float(f) => self.floats.get(name, f),
+        }
+    }
+}
+
+5. Director (time scheduler)
+    TimeLine struct
+        Ordered list of PlannedEvents 
+        having a time strapped to them 
+        
+

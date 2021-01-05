@@ -1,0 +1,8 @@
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/include/GLFW/glfw3.h
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/include/GLFW/glfw3native.h
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/lib/cmake/glfw3/glfw3Config.cmake
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/lib/pkgconfig/glfw3.pc
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/lib/libglfw3.a

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/typenum-9f279ad3fb86d5ae/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/typenum-9f279ad3fb86d5ae/out/op.rs

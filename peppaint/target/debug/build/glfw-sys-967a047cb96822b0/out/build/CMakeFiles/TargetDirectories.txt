@@ -1,0 +1,14 @@
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/install/local.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/rebuild_cache.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/edit_cache.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/install/strip.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/uninstall.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/install.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/CMakeFiles/list_install_components.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/install/local.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/install/strip.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/install.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/list_install_components.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/rebuild_cache.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/edit_cache.dir
+/Users/pepijnvanderklei/Desktop/Code/create-build/peppaint/target/debug/build/glfw-sys-967a047cb96822b0/out/build/src/CMakeFiles/glfw.dir
